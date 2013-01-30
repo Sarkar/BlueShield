@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Activities</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="height">55px</string>
+    <string name="textSize">18px</string>
+    <string name="layoutWidth">250px</string>
+    <string name="page1">Page 1</string>
+    <string name="page2">Page 2</string>
+    <string name="page3">Page 3</string>
+	<string name="ListView">ListView Page</string>
+    
+    <string-array name="pages_array">
+ 		<item>Page 1</item>
+ 		<item>Page 2</item>
+ 		<item>Page 3</item>
+ 		<item>Switch to button mode</item>
+	</string-array>
+    
+</resources>
