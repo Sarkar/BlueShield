@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">TheBluePlug</string>
+    <string name="loginblurb">Login with the hardcoded passcode found on your Blue Plug device.</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+	
+    <color name="blue">#2B4F81</color>
+</resources>
