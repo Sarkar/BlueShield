@@ -8,6 +8,11 @@
     <string name="cancel">Cancel</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_login">LoginActivity</string>
-	
+    <string name="splash_screen">Splash Screen</string>
+
     <color name="blue">#2B4F81</color>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
 </resources>
