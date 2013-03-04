@@ -9,7 +9,7 @@ import android.content.Intent;
 import android.view.Menu;
 
 public class SplashActivity extends Activity {
-	private long splashDelay = 5000; //5 seconds
+	private long splashDelay = 2000; //5 seconds
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,8 +21,8 @@ public class SplashActivity extends Activity {
         	public void run()
         	{
         		finish();
-        		Intent login = new Intent().setClass(SplashActivity.this, LoginActivity.class);
-        		startActivity(login);
+        		Intent appliances = new Intent().setClass(SplashActivity.this, AppliancesActivity.class);
+        		startActivity(appliances);
         	}
         };
         
