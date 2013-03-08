@@ -17,5 +17,7 @@
 
     <string name="title_activity_splash">SplashActivity</string>
     <string name="title_activity_appliances">AppliancesActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_specific_appliance">SpecificAppliance</string>
 
 </resources>

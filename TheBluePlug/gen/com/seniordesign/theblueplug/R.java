@@ -22,28 +22,31 @@ public final class R {
         public static final int splashtitle=0x7f020005;
     }
     public static final class id {
-        public static final int add=0x7f08000b;
-        public static final int button1=0x7f080005;
-        public static final int editText1=0x7f080006;
-        public static final int imageView1=0x7f080008;
-        public static final int menu_settings=0x7f080009;
-        public static final int remove=0x7f08000a;
-        public static final int tableRow1=0x7f080000;
-        public static final int tableRow2=0x7f080001;
-        public static final int tableRow3=0x7f080002;
-        public static final int tableRow4=0x7f080003;
-        public static final int tableRow5=0x7f080004;
-        public static final int textView1=0x7f080007;
+        public static final int TextView1=0x7f080006;
+        public static final int TextView2=0x7f080007;
+        public static final int add=0x7f08000a;
+        public static final int button1=0x7f080001;
+        public static final int editText1=0x7f080002;
+        public static final int imageView1=0x7f080005;
+        public static final int listView1=0x7f080000;
+        public static final int listView2=0x7f080004;
+        public static final int menu_settings=0x7f080008;
+        public static final int remove=0x7f080009;
+        public static final int textView1=0x7f080003;
     }
     public static final class layout {
         public static final int activity_appliances=0x7f030000;
         public static final int activity_login=0x7f030001;
-        public static final int activity_splash=0x7f030002;
+        public static final int activity_specific_appliance=0x7f030002;
+        public static final int activity_splash=0x7f030003;
+        public static final int list_row=0x7f030004;
+        public static final int list_row2=0x7f030005;
     }
     public static final class menu {
         public static final int activity_appliances=0x7f070000;
         public static final int activity_login=0x7f070001;
-        public static final int activity_splash=0x7f070002;
+        public static final int activity_specific_appliance=0x7f070002;
+        public static final int activity_splash=0x7f070003;
     }
     public static final class string {
         public static final int add=0x7f040007;
@@ -51,6 +54,7 @@ public final class R {
         public static final int appliances=0x7f040008;
         public static final int cancel=0x7f040005;
         public static final int done=0x7f040004;
+        public static final int hello_world=0x7f04000e;
         public static final int login=0x7f040002;
         public static final int loginblurb=0x7f040001;
         public static final int menu_settings=0x7f040009;
@@ -59,6 +63,7 @@ public final class R {
         public static final int submit=0x7f040003;
         public static final int title_activity_appliances=0x7f04000d;
         public static final int title_activity_login=0x7f04000a;
+        public static final int title_activity_specific_appliance=0x7f04000f;
         public static final int title_activity_splash=0x7f04000c;
     }
     public static final class style {
