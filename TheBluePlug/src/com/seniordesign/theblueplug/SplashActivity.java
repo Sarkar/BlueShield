@@ -32,7 +32,7 @@ public class SplashActivity extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_splash, menu);
+        getMenuInflater().inflate(R.menu.activity_appliances, menu);
         return true;
     }
 }
