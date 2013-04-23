@@ -23,7 +23,7 @@ public class AppliancesActivity extends Activity {
         ActionBar actionBar = getActionBar();
         actionBar.show();
         
-        final String[] words = {"one", "two", "three"};
+        final String[] words = {"Washer", "Electric Car", "Dishwasher"};
         
         //Setting up the list view and constructors
         ListView listView = (ListView) findViewById(R.id.listView1);
