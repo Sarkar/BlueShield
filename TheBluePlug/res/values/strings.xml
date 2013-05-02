@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">TheBluePlug</string>
+    <string name="app_name">The Blue Plug</string>
     <string name="loginblurb">Login with the hardcoded passcode found on your Blue Plug device.</string>
     <string name="login">Login</string>
     <string name="submit">Submit</string>
@@ -23,5 +23,12 @@
     <string name="title_activity_splash">SplashActivity</string>
     <string name="title_activity_appliances">AppliancesActivity</string>
     <string name="title_activity_specific_appliance">SpecificAppliance</string>
+    
+    <string name="appliances_prompt">Choose an appliance to add</string>
+    <string-array name="appliances_array">
+        <item>Dryer</item>
+        <item>Air Conditioning</item>
+        <item>House Lights</item>
+    </string-array>
 
 </resources>

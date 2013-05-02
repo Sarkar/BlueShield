@@ -3,13 +3,13 @@
         android:title="@string/menu_settings"
         android:orderInCategory="3"
         android:showAsAction="always" />
-    <item android:id="@+id/remove"
-        android:title="@string/remove"
+    <item android:id="@+id/add"
+        android:title="@string/add"
         android:orderInCategory="1"
         android:showAsAction="always"
         android:icon="@android:drawable/ic_menu_add"/>
-    <item android:id="@+id/add"
-        android:title="@string/add"
+    <item android:id="@+id/remove"
+        android:title="@string/remove"
         android:orderInCategory="2"
         android:showAsAction="always"
         android:icon="@android:drawable/ic_menu_delete"/>
